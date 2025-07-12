@@ -38,7 +38,7 @@ Member 3:
   
   Ph no: 8015801133
 
-Our Proposed solution which developed as a product(Website), which it explains how it works seamlessly and the features of the REWEAR
+## Our Proposed solution which developed as a product(Website), which it explains how it works seamlessly and the features of the REWEAR
 
 ReWear is a community clothing exchange web application focused on sustainable fashion. The platform enables users to list, browse, and swap clothing items while promoting sustainable fashion practices.
 
@@ -77,22 +77,37 @@ ReWear is a community clothing exchange web application focused on sustainable 
 ### Backend Structure
 
 backend/
+
 ├── src/
+
 │   ├── config/          # Database and server configuration
+
 │   ├── middleware/       # Auth and validation middleware
+
 │   ├── routes/          # API route handlers
+
 │   ├── services/        # Business logic
+
 │   └── types/           # TypeScript type definitions
+
 ├── uploads/             # File storage
+
 └── database.sqlite      # SQLite database
+
 ### Frontend Structure
 
 frontend/
+
 ├── src/
+
 │   ├── components/      # Reusable UI components
+
 │   ├── contexts/        # React contexts (auth, notifications)
+
 │   ├── pages/          # Application pages
+
 │   ├── services/       # API integration
+
 │   └── types/          # TypeScript interfaces
 
 ## Core Features
@@ -231,7 +246,7 @@ The platform is fully functional with:
 
 The application is ready for testing and deployment, with all core features implemented and working together seamlessly.
 
-Attached some interactive snaps of the REWEAR
+## Attached some interactive snaps of the REWEAR
 
 ![Login Page of REWEAR Website](https://github.com/user-attachments/assets/c03fce8f-43a1-4238-9901-dbbbd97c0f12)
 

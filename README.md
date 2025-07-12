@@ -14,7 +14,7 @@ Ph no: 9043437309
 
 Member 1:
 
-  Name:Subash.GS
+  Name:Subash GS
   
   Mail Id: gssubash2.0@gmail.com
   

@@ -5,7 +5,7 @@ Problem statement: 3.ReWear – Community Clothing Exchange
 
 Team Leader:
 
-Name: Santhosh Kumar.R
+Name: Santhosh Kumar R
 
 Mail Id: santhoshraj7117@gmail.com
 
@@ -23,7 +23,7 @@ Member 1:
 
 Member 2:
 
-  Name:Manoj Kumar.s
+  Name:Manoj Kumar S
   
   Mail Id: manojkumar06cse@gmail.com
   
@@ -32,7 +32,7 @@ Member 2:
 
 Member 3:
 
-  Name: Sakthivel.R
+  Name: Sakthivel R
   
   Mail Id: sakthivelr1679@gmail.com
   

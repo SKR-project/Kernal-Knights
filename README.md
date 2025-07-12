@@ -50,11 +50,6 @@ ReWear is a community-driven clothing exchange platform that encourages sustaina
 
 ---
 
-## Folder Structure
-
-### Backend
-
-
 ## Attached some interactive snaps of the REWEAR
 
 ![Login Page of REWEAR Website](https://github.com/user-attachments/assets/c03fce8f-43a1-4238-9901-dbbbd97c0f12)

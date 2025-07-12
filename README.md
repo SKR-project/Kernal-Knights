@@ -253,5 +253,46 @@ The application is ready for testing and deployment, with all core features impl
 ![landing page of the REWEAR Website](https://github.com/user-attachments/assets/937c0fb2-a7e2-4913-8343-cc51f526b56d)
 
 
+To run this ReWear project on your local machine, here are the steps you need right now:
+Prerequisites
 
+    Node.js (version 18 or higher) - Download from nodejs.org
+    Git - Download from git-scm.com
+    PostgreSQL - Download from postgresql.org
+
+Setup Steps
+1. Clone the Repository
+
+git clone <your-repo-url>
+cd rewear-project
+
+2. Install Dependencies
+
+npm install
+
+3. Set Up Database
+
+First, create a PostgreSQL database:
+
+# Connect to PostgreSQL
+psql -U postgres
+
+# Create database
+CREATE DATABASE rewear_db;
+\q
+
+4. Environment Variables
+
+Create a .env file in the root directory:
+
+DATABASE_URL=postgresql://username:password@localhost:5432/rewear_db
+SESSION_SECRET=your-super-secret-session-key-here
+REPL_ID=your-app-id
+REPLIT_DOMAINS=localhost:5000
+ISSUER_URL=https://replit.com/oidc
+NODE_ENV=development
+
+Replace:
+
+    username and password with your PostgreSQL c
 
